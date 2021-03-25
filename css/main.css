@@ -156,18 +156,6 @@ div#startbox  {
     font-family: 'Open Sans'
 }
 
-div#shopcss  {
-    background-color: darkgray;
-    width: 400px;
-    min-height: 400px;
-    margin-top: 20px;
-    margin-bottom: 124px;
-    margin-left: 750px;
-    margin-right: 300px;
-    box-shadow: 10;
-    text-align: center;
-    font-family: 'Open Sans'
-}
 
         div.flex-innen {
             display: flex;
