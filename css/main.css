@@ -1,0 +1,246 @@
+html, body {margin: 0px;
+box-sizing: border-box}
+
+body {
+    
+    background-color: cornsilk
+        
+}
+
+div#einebox  {
+    background-color: #ffdc48;
+    width: 800px;
+    min-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 124px;
+    margin-left: 200px;
+    margin-right: 300px
+
+
+
+}  
+
+
+
+
+.login-form,
+.login-form * {
+    
+    box-sizing: border-box;
+    font-family: cursive;
+    
+    
+}
+
+.login-form {
+    
+    max-width: 350px;
+    padding: 10px;
+    background-color: #252525;
+    text-align: center;
+    min-height: 150px;
+    min-width: 1000px;
+    margin-top: 20px;
+    margin-bottom: 124px;
+    margin-left: 470px;
+    margin-right: 500px;
+    border-radius: 20px;
+    overflow: hidden;
+    color: #fefefe
+}
+
+
+.register {
+text-align: center;
+    margin-top: 0px;
+    color: #ff2929
+}
+
+.login_submit {
+    padding: 10px;
+    color: whitesmoke;
+    background: #ff2929;
+    font-weight: bold;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: inherit;
+    max-width: 150px;
+    max-height: 100px
+}
+
+.login_submit:hover {
+    
+    color: #fefefe;
+    background: #c92727
+}
+
+.login_un {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #ff2929;
+    max-width: 200px
+}
+
+
+.login_pw {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #ff2929;
+    max-width: 200px
+}
+
+.login-help {
+color: aqua;
+    font-family: cursive
+}
+
+
+
+
+
+h1#Titel {text-align: center; color: skyblue}
+h2#Titelzwei {text-align: center}
+
+
+
+
+
+div#logo 
+{padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+font-family: 'Anton', sans-serif;
+}
+
+
+
+div#Impressum {
+    background-color: darkcyan;
+    width: 1899px;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    margin-right: 2px
+}
+
+div#box  {
+    background-color: darkolivegreen;
+    width: 1000px;
+    min-height: 200px;
+    margin-top: 20px;
+    margin-bottom: 124px;
+    margin-left: 500px;
+    margin-right: 300px;
+    box-shadow: 10;
+    text-align: center
+}
+
+div#startbox  {
+    background-color: cadetblue;
+    width: 1000px;
+    min-height: 200px;
+    margin-top: 20px;
+    margin-bottom: 124px;
+    margin-left: 470px;
+    margin-right: 500px;
+    box-shadow: 10;
+    text-align: center;
+    font-family: 'Open Sans'
+}
+
+div#shopcss  {
+    background-color: darkgray;
+    width: 400px;
+    min-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 124px;
+    margin-left: 750px;
+    margin-right: 300px;
+    box-shadow: 10;
+    text-align: center;
+    font-family: 'Open Sans'
+}
+
+        div.flex-innen {
+            display: flex;
+    }
+    
+    div.flex-innen {
+        
+    }
+    a.unsichtbar{color: aquamarine}
+
+
+    h3.ImpressumName {color: red;
+    font-family: 'Bowlby One SC', cursive; 
+    text-align: center}
+
+ h1.LiveTitle {color: red;
+    font-family: 'Bowlby One SC', cursive; 
+    text-align: center}
+
+ h3.AboutText {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center
+}
+
+h1.shopcsstext {
+    
+            font-family: 'Open Sans';
+    text-align: center
+                
+    
+}
+
+h2.about_team {
+    
+            font-family: 'Open Sans';
+    text-align: center
+                
+    
+}
+
+h1.shopselect {
+    
+    font-family: 'Open Sans';
+        text-align: center;
+    color: firebrick
+}
+    
+
+    a.unsichtbarzwei{color: aquamarine}
+
+.buy_button {
+    
+    width: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: dimgrey;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight:bold;
+    color:black;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    -webkit-transition: background-color 100ms ease-in;
+       -moz-transition: background-color 100ms ease-in;
+        -ms-transition: background-color 100ms ease-in;
+            transition: background-color 100ms ease-in;
+}
+
+.buy_button:hover {
+    color:red;
+    background-color: darkgray
+}
+        
+
